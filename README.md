@@ -28,7 +28,7 @@ I am a Roboticist, Aspiring Data Scientist, Embedded Software Developer <img src
 
 - :zap: In my free time, I solve problems, reading research articles and writing Review Reports.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/jerwinprabu)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Jerwinprabu-blue?style=flat&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/jerwinprabu)
 
 ---
 
